@@ -3,7 +3,7 @@
 pkgname=addresses
 pkgver=0.4.7
 pkgrel=1
-pkgdesc="The GNUstep Mail"
+pkgdesc="GNUstep address book"
 arch=(i686 x86_64)
 url="http://gap.nongnu.org/addresses"
 license=('GPL')
